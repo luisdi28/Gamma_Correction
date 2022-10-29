@@ -1,2 +1,14 @@
 # ninja log v5
 593	802	1666316828565248329	Gamma_Correction	ffbb47a0d414043f
+0	1293	1667068088886691740	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	7bc2dc88e49e0e75
+0	1675	1667068089270682766	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	e696f432e6697639
+0	2222	1667068089814670058	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	d90e26661f866488
+0	3863	1667068091450631915	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	b786977a2127a4fb
+3863	3916	1667068091506630611	lib/libgtest.a	6802aad170ccebec
+3916	3941	1667068091534629960	lib/libgtest_main.a	885d1b730798b43d
+3916	3951	1667068091542629773	lib/libgmock.a	3bac815e00933bc6
+3951	3975	1667068091566629214	lib/libgmock_main.a	bbde190806803d07
+0	4234	1667068091826623161	CMakeFiles/servidor.dir/main.cpp.o	1a049d8fd8830429
+4234	4400	1667068091990619343	servidor	52c3123e67b18edc
+2	1769	1667068151737294606	CMakeFiles/servidor.dir/main.cpp.o	1a049d8fd8830429
+1769	1935	1667068151901291141	servidor	52c3123e67b18edc
